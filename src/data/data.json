@@ -1,0 +1,259 @@
+{
+  "Header": {
+    "title": "Transforme Visões em Realidade",
+    "paragraph": "Sua Jornada Digital Começa Aqui, Rumo a uma Presença Online Excepcional."
+  },
+  "Navigation":{
+    "title" : "Logo mdk",
+    "img" : "img/logo/logowhite.png"
+  },
+  "About": {
+    "paragraph": "Na MDK Studio, somos mais do que desenvolvedores web; somos arquitetos digitais dedicados a transformar suas ideias em experiências online extraordinárias. Com uma herança de excelência e inovação, oferecemos soluções de ponta para garantir que sua presença na web não seja apenas notável, mas também altamente eficaz.",
+    "Why": [
+      "Design Personalizado",
+      "Desenvolvimento Responsivo",
+      "E-commerce Intuitivo",
+      "SEO Estratégico"
+    ],
+    "Why2": [
+      "Manutenção Contínua",
+      "Inovação Constante",
+      "Compromisso com a Qualidade",
+      "Parceria de Longo Prazo"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Design Personalizado",
+      "text": "Cada site é uma expressão única de sua marca. Desenvolvemos designs personalizados que se alinham à identidade visual da sua empresa."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "E-commerce Poderoso",
+      "text": "Transforme visitantes em clientes com nossas soluções de e-commerce intuitivas. Do carrinho de compras à finalização do pedido, garantimos uma jornada de compra simplificada."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Manutenção Contínua",
+      "text": "Sua presença online deve evoluir com sua empresa. Oferecemos serviços de manutenção contínua para garantir que seu site esteja sempre atualizado e operando com máxima eficiência."
+    },
+    {
+      "icon": "fa fa-tablet",
+      "name": "Desenvolvimento Responsivo",
+      "text": "Nosso compromisso com a acessibilidade se reflete em sites totalmente responsivos. Independentemente do dispositivo usado, sua audiência desfrutará de uma experiência consistente e envolvente."
+    },
+    {
+      "icon": "fa fa-gamepad",
+      "name": "Criação de Games",
+      "text": "Levamos a experiência de entretenimento a um novo nível, desenvolvendo games envolventes para PC, console e celular. Explore novas fronteiras digitais com nossos jogos emocionantes."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Otimização para Motores de Busca",
+      "text": "Maximize sua visibilidade online com estratégias de SEO personalizadas. Colocamos seu site nas primeiras páginas dos motores de busca, atraindo mais tráfego e oportunidades de negócios."
+    }
+  ],
+  "LeadingText": "Projetos",
+  "Slides": [
+    {
+      "introline": "Site de Advocacia",
+      "id": "site-advocacia",
+      "content": {
+        "image": "img/projetos/dk-advocacia.png",
+        "copy": "Dog ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Kanban Board",
+      "id": "kanban-board",
+      "content": {
+        "image": "img/projetos/kanban-board.png",
+        "copy": "Elephant ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Aplicação com Dark Mode",
+      "id": "app-react",
+      "content": {
+        "image": "img/projetos/react-native-dark-mode.png",
+        "copy": "Bears ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Delivery",
+      "id": "delivery",
+      "content": {
+        "image": "img/projetos/app-delivery.png",
+        "copy": "Lizards ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Gestor de dependências",
+      "id": "gestao-dependencias",
+      "content": {
+        "image": "img/projetos/app-gestao-de-salas.png",
+        "copy": "Snakes ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Gestão de Passagens",
+      "id": "app-gestao-passagens",
+      "content": {
+        "image": "img/projetos/sistema-compra-passagens.png",
+        "copy": "Cats ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    },
+    {
+      "introline": "Gui de Dados Json",
+      "id": "data-form-gui",
+      "content": {
+        "image": "img/projetos/data-form-gui.png",
+        "copy": "Cats ipsum dolor sit amet, consectetur adipiscing elit. Morbi accumsan est ornare, ultricies erat a, dapibus lectus."
+      }
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/felipe.jpg",
+      "name": "Felipe Macedo",
+      "job": "Desenvolvedor Full-Stack",
+      "face": "",
+      "github": "https://github.com/macedoflp",
+      "linkedin": "https://www.linkedin.com/in/macedoflp/"
+    },
+    {
+      "img": "img/team/davi.jpg",
+      "name": "Davi Komura",
+      "job": "Desenvolvedor Full-Stack",
+      "face": "",
+      "github": "https://github.com/davikomura",
+      "linkedin": "https://www.linkedin.com/in/davikomura-2099/"
+    },
+    {
+      "img": "img/team/daniel.jpg",
+      "name": "Daniel Korban",
+      "job": "Desenvolvedor Full-Stack",
+      "face": "",
+      "github": "https://github.com/daniel99korban",
+      "linkedin": "https://www.linkedin.com/in/danielkorban/"
+    },
+    {
+      "img": "img/team/roberto.jpg",
+      "name": "Roberto Lucas",
+      "job": "Desenvolvedor Full-Stack",
+      "face": "",
+      "github": "https://github.com/PauloRobert0",
+      "linkedin": "https://www.linkedin.com/in/roberto-lucas-l-pereira/"
+    }
+  ],
+  "Contact": {
+    "address": "Avenida Júnior Coimbra, S/N, Renascença II, São Luís - MA (Próximo à Escola Reino Infantil)",
+    "phone": "+55 98 98462-3751",
+    "email": "mdkstudioslz@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "Colaboração Intensa",
+      "text": "Trabalhamos em estreita colaboração com nossos clientes, transformando suas visões em realidade por meio de uma parceria intensiva e envolvente."
+    },
+    {
+      "icon": "fa fa-user-plus",
+      "title": "Abordagem Centrada no Cliente",
+      "text": "Cada projeto é moldado pelas necessidades específicas do cliente, garantindo soluções personalizadas que refletem verdadeiramente a identidade e os objetivos da empresa."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Inovação Contínua",
+      "text": "Adotamos uma mentalidade de busca constante por inovação, incorporando as últimas tendências tecnológicas para manter nossos clientes à frente no dinâmico cenário digital."
+    },
+    {
+      "icon": "fa fa-certificate",
+      "title": "Qualidade Impecável",
+      "text": " Comprometemo-nos com a excelência em cada detalhe, desde o design até o desenvolvimento. Nossa busca implacável pela qualidade garante resultados excepcionais em todos os projetos."
+    }
+  ]
+}

@@ -1059,3 +1059,9 @@ label {
 .carousel-item.visible {
   opacity: 1;
 }
+
+@media (max-width: 995px){ 
+  .navbar-nav{
+    display: none;
+  }
+}

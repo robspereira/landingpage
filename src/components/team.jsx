@@ -10,10 +10,10 @@ export const Team = (props) => {
             Experiência e Dedicação: Conheça Nossa Equipe de Desenvolvedores Experientes
           </p>
         </div>
-        <div id="row">
+        <div id="row" className="team-container">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-4 team">
                   <div className="card">
                     <div className="card-photo">
                       <img src={d.img} alt="..." className="team-img" />

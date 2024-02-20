@@ -232,6 +232,14 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+
+  @media(max-width: 900px ){
+    font-size: 60px;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 50px;
+  }
 }
 .intro h1 span {
   font-weight: 800;
@@ -253,6 +261,7 @@ header .intro-text {
 /* Features Section */
 #features {
   background: #E8E8E8;
+  padding: 30px;
 }
 #features i.fa {
   font-size: 38px;
@@ -320,7 +329,7 @@ header .intro-text {
 }
 /* Services Section */
 #services {
-  padding: 100px 0;
+  padding: 65px 0;
   background: #2E2E2E;
   color: #E8E8E8;
 }
@@ -374,6 +383,10 @@ header .intro-text {
   overflow: hidden;
   position: relative;
   margin: 0;
+}
+#portfolio > .section-title {
+  padding-top: 30px;
+
 }
 .hover-bg .hover-text {
   position: absolute;
@@ -469,6 +482,19 @@ header .intro-text {
 #team .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
+}
+
+@media (max-width: 992px){
+  .team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .team {
+    flex: 0 0 auto;
+    margin: 0 15px 30px 15px; /* Ajuste conforme necessário */
+  }
 }
 
 /* before adding the photo to the div with the "card-photo" class, in the css clear the styles for .card-photo and remove .card-photo::before and .card-photo::after, then set the desired styles for .card- photo. */
@@ -616,6 +642,26 @@ header .intro-text {
 }
 #contact form {
   padding-top: 20px;
+  
+}
+@media (max-width: 992px) {
+  .form-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px; /* ajuste conforme necessário */
+    margin: auto;
+    z-index: 1; /* Garante que o formulário não cubra outros elementos */
+  }
+
+  .form {
+    width: 100%;
+  }
+  
+  .section-title {
+    position: relative; /* Adiciona uma posição relativa para ajustar o z-index */
+    z-index: 2; /* Ajusta o z-index para garantir que o texto esteja na frente do formulário */
+    text-align: center; /* Centraliza o texto */
+  }
 }
 #contact .text-danger {
   color: #cc0033;
@@ -629,6 +675,12 @@ header .intro-text {
 #contact .btn-custom:hover {
   color: #1f386e;
   background: #fff;
+}
+.contact-item i {
+  margin-right: 5px;
+}
+.contact-card {
+  padding-top: 30px;
 }
 label {
   font-size: 12px;
@@ -922,6 +974,22 @@ label {
   }
 }
 
+@media (max-width: 995px){ 
+  .navbar-nav{
+    display: none;
+  }
+  .img-responsive {
+    display: none;
+  }
+  .about-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+  }
+ 
+}
+
 /* ------------------------------------------------------*/
 :root {/*variaveis(cores)*/
   --white: #fff;
@@ -1059,3 +1127,4 @@ label {
 .carousel-item.visible {
   opacity: 1;
 }
+

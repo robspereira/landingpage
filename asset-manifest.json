@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.ae42ac5f.css",
+    "main.js": "/landingpage/static/js/main.0b0fd76f.js",
+    "index.html": "/landingpage/index.html",
+    "static/media/chevronDown.svg": "/landingpage/static/media/chevronDown.efb4126a07a45f1aa8e827dfefe6123f.svg",
+    "static/media/chevronUp.svg": "/landingpage/static/media/chevronUp.dbcf5ed19a3dd66ec39442f3c4293de2.svg",
+    "main.ae42ac5f.css.map": "/landingpage/static/css/main.ae42ac5f.css.map",
+    "main.0b0fd76f.js.map": "/landingpage/static/js/main.0b0fd76f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.0b0fd76f.js"
+  ]
+}
